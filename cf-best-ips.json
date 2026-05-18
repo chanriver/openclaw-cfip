@@ -1,11 +1,11 @@
 {
   "version": "1.1",
-  "update_time": "2026-05-18 16:24:43",
-  "total_tested": 458,
+  "update_time": "2026-05-18 16:29:47",
+  "total_tested": 464,
   "top_10": [
     {
-      "ip": "173.245.59.231",
-      "latency_ms": 60.4,
+      "ip": "162.159.4.102",
+      "latency_ms": 59.2,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -15,8 +15,8 @@
       }
     },
     {
-      "ip": "162.159.56.185",
-      "latency_ms": 61.2,
+      "ip": "162.159.51.234",
+      "latency_ms": 59.9,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -26,8 +26,8 @@
       }
     },
     {
-      "ip": "173.245.58.11",
-      "latency_ms": 66.0,
+      "ip": "162.159.7.18",
+      "latency_ms": 60.5,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -37,8 +37,8 @@
       }
     },
     {
-      "ip": "162.159.57.46",
-      "latency_ms": 67.4,
+      "ip": "173.245.58.155",
+      "latency_ms": 61.4,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -48,8 +48,8 @@
       }
     },
     {
-      "ip": "173.245.59.235",
-      "latency_ms": 70.8,
+      "ip": "162.159.56.111",
+      "latency_ms": 62.8,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -59,19 +59,8 @@
       }
     },
     {
-      "ip": "108.162.198.112",
-      "latency_ms": 71.7,
-      "speed_mb": null,
-      "geo": {
-        "country": "United States",
-        "country_code": "US",
-        "region": "Virginia",
-        "city": "Ashburn"
-      }
-    },
-    {
-      "ip": "162.159.1.15",
-      "latency_ms": 72.6,
+      "ip": "198.41.223.196",
+      "latency_ms": 62.8,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -81,8 +70,8 @@
       }
     },
     {
-      "ip": "162.159.18.115",
-      "latency_ms": 73.7,
+      "ip": "172.64.53.158",
+      "latency_ms": 63.8,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -92,8 +81,8 @@
       }
     },
     {
-      "ip": "162.159.58.134",
-      "latency_ms": 74.9,
+      "ip": "162.159.12.209",
+      "latency_ms": 64.6,
       "speed_mb": null,
       "geo": {
         "country": "Canada",
@@ -103,14 +92,25 @@
       }
     },
     {
-      "ip": "108.162.198.178",
-      "latency_ms": 75.4,
+      "ip": "172.64.150.188",
+      "latency_ms": 65.1,
       "speed_mb": null,
       "geo": {
-        "country": "United States",
-        "country_code": "US",
-        "region": "Virginia",
-        "city": "Ashburn"
+        "country": "Canada",
+        "country_code": "CA",
+        "region": "Ontario",
+        "city": "Toronto"
+      }
+    },
+    {
+      "ip": "198.41.222.172",
+      "latency_ms": 65.2,
+      "speed_mb": null,
+      "geo": {
+        "country": "Canada",
+        "country_code": "CA",
+        "region": "Ontario",
+        "city": "Toronto"
       }
     }
   ]
